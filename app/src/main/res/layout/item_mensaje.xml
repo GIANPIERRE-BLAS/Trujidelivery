@@ -1,0 +1,8 @@
+<TextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tvMensaje"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg_chat_receiver"
+    android:padding="12dp"
+    android:textColor="@color/black"/>

@@ -1,0 +1,6 @@
+<!-- res/drawable/boton_seleccionado.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+    <solid android:color="@color/primary" />
+    <corners android:radius="8dp" />
+    <stroke android:width="2dp" android:color="@color/primary_dark" />
+</shape>

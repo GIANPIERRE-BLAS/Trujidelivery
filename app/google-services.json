@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "903699975373",
+    "project_id": "deliveryapp-87c12",
+    "storage_bucket": "deliveryapp-87c12.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903699975373:android:9cb3fa16cbe4bb7c3e2d84",
+        "android_client_info": {
+          "package_name": "pe.edu.trujidelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903699975373-v6aj69h32t7gm2jq0t9821qfldnookk2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pe.edu.trujidelivery",
+            "certificate_hash": "e751c841313f1a2012b94fa12492ce8700e60b09"
+          }
+        },
+        {
+          "client_id": "903699975373-5aarp2496kg3qot33kvfjsb0hr83tdtp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqoT4Su4-8nYG_S20uG22M1fzqD3zUu14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903699975373-5aarp2496kg3qot33kvfjsb0hr83tdtp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
