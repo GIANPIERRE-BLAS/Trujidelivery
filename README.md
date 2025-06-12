@@ -300,7 +300,21 @@ MIT License - Uso libre para fines educativos y comerciales
 
 ## 👨‍💻 Desarrollador
 
-<div align="center"> <img src="https://avatars.githubusercontent.com/u/103212172?v=4" alt="Gianpierre Blas Flores" width="140" style="border-radius: 50%; margin-bottom: 12px;" /> <h3><strong>Gianpierre Blas Flores</strong></h3> <p><em>Desarrollador Android | Computación e Informática</em></p> <a href="https://github.com/GIANPIERRE-BLAS"> <img src="https://img.shields.io/badge/GitHub-@GIANPIERRE--BLAS-black?style=flat-square&logo=github" /> </a> <a href="https://www.linkedin.com/in/justo-gianpierre-blas-flores-5ba671302/"> <img src="https://img.shields.io/badge/LinkedIn-Gianpierre%20Blas-blue?style=flat-square&logo=linkedin" /> </a> <a href="mailto:gianpierreblasflores235@gmail.com"> <img src="https://img.shields.io/badge/Email-gianpierreblasflores235@gmail.com-red?style=flat-square&logo=gmail" /> </a> </div>
+<p align="center">
+  <img src="https://github.com/GIANPIERRE-BLAS.png?size=140" alt="Gianpierre Blas Flores" width="140"/><br>
+  <strong>Gianpierre Blas Flores</strong><br>
+  <em>Desarrollador Android | Computación e Informática</em><br><br>
+  
+  <a href="https://github.com/GIANPIERRE-BLAS">
+    <img src="https://img.shields.io/badge/GitHub-@GIANPIERRE--BLAS-black?style=flat-square&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/justo-gianpierre-blas-flores-5ba671302/">
+    <img src="https://img.shields.io/badge/LinkedIn-Gianpierre%20Blas-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:gianpierreblasflores235@gmail.com">
+    <img src="https://img.shields.io/badge/Email-gianpierreblasflores235@gmail.com-red?style=flat-square&logo=gmail" alt="Email" />
+  </a>
+</p>
 
 
 ## 🙏 Agradecimientos
@@ -335,6 +349,6 @@ MIT License - Uso libre para fines educativos y comerciales
 [![Forks](https://img.shields.io/github/forks/GIANPIERRE-BLAS/Trujidelivery?style=social)](https://github.com/GIANPIERRE-BLAS/Trujidelivery/network/members)
 [![Issues](https://img.shields.io/github/issues/GIANPIERRE-BLAS/Trujidelivery)](https://github.com/GIANPIERRE-BLAS/Trujidelivery/issues)
 
-**Hecho con ❤️ en Perú 🇵🇪**
+**Hecho con ❤️ en Trujillo- Perú**
 
 </div>
