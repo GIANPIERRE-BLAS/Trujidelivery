@@ -300,18 +300,8 @@ MIT License - Uso libre para fines educativos y comerciales
 
 ## 👨‍💻 Desarrollador
 
-<div align="center">
+<div align="center"> <img src="https://avatars.githubusercontent.com/u/103212172?v=4" alt="Gianpierre Blas Flores" width="140" style="border-radius: 50%; margin-bottom: 12px;" /> <h3><strong>Gianpierre Blas Flores</strong></h3> <p><em>Desarrollador Android | Computación e Informática</em></p> <a href="https://github.com/GIANPIERRE-BLAS"> <img src="https://img.shields.io/badge/GitHub-@GIANPIERRE--BLAS-black?style=flat-square&logo=github" /> </a> <a href="https://www.linkedin.com/in/justo-gianpierre-blas-flores-5ba671302/"> <img src="https://img.shields.io/badge/LinkedIn-Gianpierre%20Blas-blue?style=flat-square&logo=linkedin" /> </a> <a href="mailto:gianpierreblasflores235@gmail.com"> <img src="https://img.shields.io/badge/Email-gianpierreblasflores235@gmail.com-red?style=flat-square&logo=gmail" /> </a> </div>
 
-### **Gianpierre Blas Flores**
-*Desarrollador Android | Computación e Informática*
-
-[![GitHub](https://img.shields.io/badge/GitHub-@GIANPIERRE--BLAS-black?style=flat-square&logo=github)](https://github.com/GIANPIERRE-BLAS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gianpierre%20Blas-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/justo-gianpierre-blas-flores-5ba671302/)
-[![Email](https://img.shields.io/badge/Email-gianpierreblasflores235@gmail.com-red?style=flat-square&logo=gmail)](mailto:gianpierreblasflores235@gmail.com)
-
-</div>
-
----
 
 ## 🙏 Agradecimientos
 
