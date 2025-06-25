@@ -122,8 +122,50 @@ Facilitar el acceso a productos y servicios locales mediante una plataforma de d
 • LiveData & ViewModel
 • Coroutines para programación asíncrona
 ```
+## 📦 Instalación para Usuarios
 
-## 📦 Instalación
+### 📱 **¿Eres cliente? Instala Trujidelivery y empieza a pedir**
+
+**Trujidelivery** es una app de delivery moderna y fácil de usar que te permite:
+
+- 🛍️ Explorar restaurantes, farmacias, licorerías y supermercados.
+- 🛒 Agregar productos al carrito y realizar pedidos.
+- 📍 Ver la ubicación del repartidor en tiempo real.
+- 💳 Pagar con Yape o en efectivo contra entrega.
+
+---
+
+### ✅ **Requisitos mínimos**
+- 📱 Dispositivo Android 5.0 (Lollipop) o superior  
+- 🌐 Conexión a Internet estable  
+- 💾 Al menos 50 MB de almacenamiento disponible  
+- 🔓 Permitir instalación desde fuentes desconocidas (solo la primera vez)
+
+---
+
+### 📥 **Pasos para instalar la aplicación**
+
+1. **⬇️ Descargar la APK**
+   👉 [Haz clic aquí para descargar Trujidelivery.apk](https://github.com/GIANPIERRE-BLAS/Trujidelivery/raw/main/apk/Trujidelivery.apk)
+
+2. **📂 Abrir el archivo en tu celular**
+   - Ve a la carpeta **Descargas** y toca el archivo `Trujidelivery.apk`.
+
+3. **🔐 Permitir instalación desde fuentes desconocidas**
+   - Si es la primera vez que instalas una APK, Android te pedirá permiso.
+   - Actívalo desde:
+     ```
+     Ajustes > Seguridad > Fuentes desconocidas
+     ```
+
+4. **🚀 Usar la aplicación**
+   - Abre **Trujidelivery** desde tu menú principal.
+   - Regístrate o inicia sesión.
+   - Explora los negocios, agrega productos al carrito y haz tu primer pedido.
+
+---
+
+## 📦 Instalación para desarrolladores
 
 ### **Prerrequisitos**
 - Android Studio 4.2 o superior
@@ -298,7 +340,7 @@ Este proyecto está licenciado bajo la **Licencia MIT**. Ver [LICENSE](LICENSE) 
 MIT License - Uso libre para fines educativos y comerciales
 ```
 
-## 👨‍💻 Desarrollador
+## 👨‍💻 Desarrolladores
 
 <p align="center">
   <img src="https://github.com/GIANPIERRE-BLAS.png?size=140" alt="Gianpierre Blas Flores" width="140"/><br>
@@ -314,6 +356,12 @@ MIT License - Uso libre para fines educativos y comerciales
   <a href="mailto:gianpierreblasflores235@gmail.com">
     <img src="https://img.shields.io/badge/Email-gianpierreblasflores235@gmail.com-red?style=flat-square&logo=gmail" alt="Email" />
   </a>
+</p>
+
+<p align="center">
+  <strong>Colaboradores:</strong><br>
+  👩‍💻 Anita Benites Venturo<br>
+  👨‍💻 Aldo Chávez Blas
 </p>
 
 
